@@ -1,1 +1,0 @@
-# resolvix-chat-fe
